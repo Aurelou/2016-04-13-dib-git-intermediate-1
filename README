@@ -4,4 +4,10 @@ git push -u origin master
 # sets up default, so can do 'git push' from now on
 
 # can edit on github
-# today we will discuss conflicts, branches, merging, pull requests, forks, etc
+# today we will discuss: 
+# -conflicts
+# -branches
+# -merging
+# -pull requests
+# -forks
+# -etc
