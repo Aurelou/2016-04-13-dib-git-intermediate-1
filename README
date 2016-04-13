@@ -1,1 +1,4 @@
 # Git intermediate training
+
+git push -u origin master
+# sets up default, so can do 'git push' from now on
