@@ -1,16 +1,16 @@
 # Git intermediate training
 
 git push -u origin master
-# sets up default, so can do 'git push' from now on
+- sets up default, so can do 'git push' from now on
 
-# can edit on github
+can edit on github
 
-# today we will discuss: 
-# -conflicts
-# -branches
-# -merging
-# -pull requests
-# -forks
-# -etc
+today we will discuss: 
+-conflicts
+-branches
+-merging
+-pull requests
+-forks
+-etc
 
-# another edit on github
+another edit on github
